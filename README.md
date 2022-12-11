@@ -1,1 +1,1 @@
-# rsschool-cv
+https://octonavt.github.io/rsschool-cv/cv
